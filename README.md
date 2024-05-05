@@ -15,7 +15,7 @@ Required Python libraries: tkinter, datetime, PIL, pywhatkit.
 
 ## Installation
 Clone the repository:
-git clone https://github.com/your-username/whatsapp-message-scheduler.git
+git clone https://github.com/aniketsaini5/WhatsApp-Message-Scheduler.git
 Navigate into the project directory:
 cd whatsapp-message-scheduler
 Install the required libraries:
