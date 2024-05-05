@@ -6,7 +6,9 @@ Schedule your WhatsApp messages in advance with this simple Python application u
 
 ## Features
 ● Schedule Messages: Set the recipient's phone number, message content, and the desired time for sending the message.
+
 ●  Customizable Interface: Easily customize the appearance of the application by changing the background image and icon.
+
 ●  Instant Notifications: Receive instant notifications when the message is successfully scheduled or if there are any errors.
 
 ## Prerequisites
