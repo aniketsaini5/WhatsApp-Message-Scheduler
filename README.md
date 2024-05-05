@@ -26,13 +26,18 @@ pip install -r requirements.txt
 ## Usage
 Run the application:
 python scheduler.py
+
 Enter the recipient's phone number, message content, and the scheduled time (in the format YYYY-MM-DD HH:MM).
+
 Click on the "Schedule Message" button to schedule the message.
+
 You will receive a confirmation message once the message is successfully scheduled.
 
 ## Customization
 ● Background Image: You can customize the background image by replacing the img.jpg file in the project directory.
+
 ● Icon: Customize the application icon by replacing the logo.ico file.
+
 ● GUI Layout: Modify the Tkinter GUI layout and styling by editing the scheduler.py file.
 
 ## License
